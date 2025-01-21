@@ -1,0 +1,1 @@
+Based on the [original implementation](https://github.com/sourcefrog/natsort) in a way which can be used with meson.
